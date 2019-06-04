@@ -1,0 +1,101 @@
+Task 1. Implement a function that outputs all even integers between 2 and 100.
+******************************************************************************
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28
+30
+32
+34
+36
+38
+40
+42
+44
+46
+48
+50
+52
+54
+56
+58
+60
+62
+64
+66
+68
+70
+72
+74
+76
+78
+80
+82
+84
+86
+88
+90
+92
+94
+96
+98
+100
+Task 2. Implement a function that outputs all integers from 1 to a number given as argument.
+********************************************************************************************
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Task 3. Implement a function that outputs all integers from a number given as argument to another number given as argument.
+***************************************************************************************************************************
+2
+3
+4
+5
+6
+Task 4. Implement function printStars()that outputs a given number of stars and a linebreak. For example, printStars(9) outputs: *********
+******************************************************************************************************************************************
+*********
+Task 5. Implement function printSquare(sideLength)j that prints a square using the printStarsfunction. For example, call printSquare(4) outputs: 4 stars*4lines
+***************************************************************************************************************************************************************
+****
+****
+****
+****
+Task 6. Implement function printRectangle(width, height)j that prints a rectangle using the printStars  function. For example, call printRectangle(17,3) outputs: 3 lines, 17 stars each line
+*********************************************************************************************************************************************************************************************
+*****************
+*****************
+*****************
+Task 7. Implement function printTriangle(size) that prints a rectangle using the printStarsfunction. For example, call printTriangle(5) outputs a rectangle.
+************************************************************************************************************************************************************
+*
+**
+***
+****
+*****
+******
+*******
+********
+*********
+Task 8. Implement function seriesSum(n) that returns the sum 1+2+3+...+n where n is an integer given as argument. Output the sum of integers from 1 to 100.
+***********************************************************************************************************************************************************
+5050
+Task 9. Implement function factorial(n)j that return the factorial of integer n. The formula for factorial is n! = 1*2*3*...*n.
+*******************************************************************************************************************************
+3628800
